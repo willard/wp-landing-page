@@ -19,4 +19,5 @@
 1.  `cd wp-landing-page`
 1.  `npm install`
 1.  `npm run dev`
+1.  `enable the plugin`
 1.  `edit wp-landing-page-template.php`
