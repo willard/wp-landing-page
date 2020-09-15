@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="profile" href="https://gmpg.org/xfn/11">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/wp-content/plugins/wp-landing-page/dist/main.css?ver=1">
+    <link rel="stylesheet" href="<?php echo plugin_dir_url(__FILE__) . 'dist/main.css?ver=1' ?>">
 </head>
 
 <body>
