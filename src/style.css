@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+
+/* this goes your styles */
+
+
+
+
+/* end style */
+
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
